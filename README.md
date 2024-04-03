@@ -18,3 +18,6 @@ OR
 ### Résultats ###
 
 <Nom du fichier d'origine.csv>
+
+
+_Same usage with .exe Version_ 
